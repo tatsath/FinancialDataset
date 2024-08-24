@@ -56,3 +56,9 @@ sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
 urllib3==1.26.9
     # via requests
+sphinx
+nbsphinx
+sphinx-press-theme
+sphinx-tabs
+sphinx-panels
+sphinx-design
