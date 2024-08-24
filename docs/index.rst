@@ -1,4 +1,4 @@
-Quanturf's Datasets! - Free Financial data for building Financial models
+Financial Datasets for Algorithmic Trading
 ==========================================================================================
 
 This documentation contains the information about the **Free financial dataset** for thousands
@@ -32,30 +32,30 @@ Financial Datasets - Summary by source and types:
    :maxdepth: 1
    :caption: Source
 
-   YahooFinance
-   Alphavantage
-   FundamentalAnalysis
-   quandl
-   FRED
-   Stooq
-   IEX
-   Oanda
-   finviz
+      YahooFinance
+      Alphavantage
+      FundamentalAnalysis
+      quandl
+      FRED
+      Stooq
+      IEX
+      Oanda
+      finviz
 
 .. toctree::
    :maxdepth: 1
    :caption: Categories
 
-   Equities
-   FixedIncome
-   FX
-   Commodities
-   Crypto
-   Fundamentals
-   OptionFuture
-   Macroeconomic
-   News
-   AlternativeData
+      Equities
+      FixedIncome
+      FX
+      Commodities
+      Crypto
+      Fundamentals
+      OptionFuture
+      Macroeconomic
+      News
+      AlternativeData
 
 
 
