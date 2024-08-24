@@ -1,25 +1,67 @@
-.. include:: ../README.rst
+Quanturf's Datasets! - Free Financial data for building Financial models
+==========================================================================================
 
-Welcome to Lumache's documentation!
-===================================
+This documentation contains the information about the **Free financial dataset** for thousands
+of asset classes, macroeconomic data, fundamentals and alternative data that can be used for building models on `Quanturf <http://quanturf.com/>`_.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This doumentation shows you how to get massive amounts of Financial Data and explains how to **install required Libraries** and how to **download/import the data** with few lines of Python Code.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+The data covered in this documentation include:
+-----------------------------------------------
+- Historical Price and Volume Data for 100,000+ Symbols/Instruments.
+- 50+ Exchanges all around the world.
+- Real-time and Historical Data (back to 1960s)
+- High-frequency real-time Data
+- Foreign Exchange (FOREX): 150+ Currency Pairs
+- 500+ Cryptocurrencies
+- Commodities (Crude Oil, Gold, Silver, etc.)
+- Futures and Option data
+- Macroeconomic variables
+- Stock Options, Stock Splits and Dividends for 5000+ Stocks
+- Fundamentals, Metrics and Ratios for Stocks, Bonds, Indexes, Mutual Funds and ETFs
+- Balance Sheets, Cashflow and Profit and Loss Statements (P&L)
+- 50+ Technical Indicators (i.e. SMA, Bollinger Bands).
 
-.. note::
+Financial Datasets - Summary by source and types:
+-------------------------------------------------
 
-   This project is under active development.
 
-Contents
---------
+.. include:: homepage_tabs.rst
 
 .. toctree::
+   :maxdepth: 1
+   :caption: Source
 
-   Home <self>
-   usage
-   api
+   YahooFinance
+   Alphavantage
+   FundamentalAnalysis
+   quandl
+   FRED
+   Stooq
+   IEX
+   Oanda
+   finviz
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Categories
+
+   Equities
+   FixedIncome
+   FX
+   Commodities
+   Crypto
+   Fundamentals
+   OptionFuture
+   Macroeconomic
+   News
+   AlternativeData
+
+
+
+Indices and tables
+-------------------
+
+* :ref:`genindex`
+* :ref:`search`
+* :ref:`modindex`
