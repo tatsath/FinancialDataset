@@ -1,7 +1,7 @@
-Old Quanturf's Datasets! - Free Financial data for building Financial models
+Financial Datasets
 ==========================================================================================
 
-This documentation contains the information about the **Free financial dataset** for thousands
+This documentation contains the information about the **Financial dataset** for thousands
 of asset classes, macroeconomic data, fundamentals and alternative data that can be used for building models on `Quanturf <http://quanturf.com/>`_.
 
 This doumentation shows you how to get massive amounts of Financial Data and explains how to **install required Libraries** and how to **download/import the data** with few lines of Python Code.
@@ -26,7 +26,7 @@ Financial Datasets - Summary by source and types:
 -------------------------------------------------
 
 
-.. include:: homepage_tabs.rst
+.. include:: Docs/homepage_tabs.rst
 
 .. toctree::
    :maxdepth: 1
