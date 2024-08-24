@@ -1,4 +1,4 @@
-Financial Datasets for Algorithmic Trading
+Old Quanturf's Datasets! - Free Financial data for building Financial models
 ==========================================================================================
 
 This documentation contains the information about the **Free financial dataset** for thousands
@@ -32,32 +32,41 @@ Financial Datasets - Summary by source and types:
    :maxdepth: 1
    :caption: Source
 
-      YahooFinance
-      Alphavantage
-      FundamentalAnalysis
-      quandl
-      FRED
-      Stooq
-      IEX
-      Oanda
-      finviz
+   Docs/YahooFinance
+   Docs/Alphavantage
+   Docs/FundamentalAnalysis
+   Docs/quandl
+   Docs/FRED
+   Docs/Stooq
+   Docs/IEX
+   Docs/Oanda
+   Docs/finviz
 
 .. toctree::
    :maxdepth: 1
    :caption: Categories
 
-      Equities
-      FixedIncome
-      FX
-      Commodities
-      Crypto
-      Fundamentals
-      OptionFuture
-      Macroeconomic
-      News
-      AlternativeData
+   Docs/Equities
+   Docs/FixedIncome
+   Docs/FX
+   Docs/Commodities
+   Docs/Crypto
+   Docs/Fundamentals
+   Docs/OptionFuture
+   Docs/Macroeconomic
+   Docs/News
+   Docs/AlternativeData
 
 
+
+Contributing
+------------
+
+To any interested in making the FinAIML better, there are still some improvements
+that need to be done.
+A full TODO list is available in the `roadmap <https://github.com/users/tatsath/projects/4>`_.
+
+If you want to contribute, please go through `CONTRIBUTING.md <https://github.com/Quanturf/quanturf_dataset/blob/master/CONTRIBUTING.md>`_ first.
 
 Indices and tables
 -------------------
