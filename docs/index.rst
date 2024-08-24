@@ -1,7 +1,7 @@
 Financial Datasets for Algo Trading
 ==========================================================================================
 
-This documentation is a part of Algo Trading Multiverse Course and contains the information about the **Financial dataset** for thousands
+This documentation is a part of **Algo Trading Multiverse Course** and contains the information about the **Financial dataset** for thousands
 of asset classes, macroeconomic data, fundamentals and alternative data that can be used for building algo trading models. 
 
 This doumentation shows you how to get massive amounts of Financial Data and explains how to **install required Libraries** and how to **download/import the data** with few lines of Python Code.
