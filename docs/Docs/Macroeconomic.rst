@@ -11,8 +11,8 @@ This page describes how to download the data from following sources.
 
 Economic Indicators
 -------------------
-- `Alphavantage <https://finailabdatasets.readthedocs.io/en/latest/Docs/Alphavantage.html#economic-indicators>`_
+- `Alphavantage <https://FinancialDataset.readthedocs.io/en/latest/Docs/Alphavantage.html#economic-indicators>`_
 
 Treasury Rates
 --------------
-- `FRED <https://finailabdatasets.readthedocs.io/en/latest/Docs/FRED.html#treasury-rates>`_
+- `FRED <https://FinancialDataset.readthedocs.io/en/latest/Docs/FRED.html#treasury-rates>`_

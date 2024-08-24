@@ -8,8 +8,8 @@ Alternative Data
 
 Volume and Price data:
 ================================================
-- `Yahoo Finance <https://finailabdatasets.readthedocs.io/en/latest/Docs/YahooFinance.html#historical-price-and-volume-for-1-stock>`_
-- `Alphavantage <https://finailabdatasets.readthedocs.io/en/latest/Docs/Alphavantage.html#historical-price-and-volume-for-1-stock>`_
+- `Yahoo Finance <https://FinancialDataset.readthedocs.io/en/latest/Docs/YahooFinance.html#historical-price-and-volume-for-1-stock>`_
+- `Alphavantage <https://FinancialDataset.readthedocs.io/en/latest/Docs/Alphavantage.html#historical-price-and-volume-for-1-stock>`_
 
 
 
@@ -18,20 +18,20 @@ https://towardsdatascience.com/a-comprehensive-guide-to-downloading-stock-prices
 
 Importing Many Stocks:
 ================================================
-- `Yahoo Finance <https://finailabdatasets.readthedocs.io/en/latest/Docs/YahooFinance.html#importing-many-stocks>`_
+- `Yahoo Finance <https://FinancialDataset.readthedocs.io/en/latest/Docs/YahooFinance.html#importing-many-stocks>`_
 
 Indices
 ================================================
-- `Yahoo Finance <https://finailabdatasets.readthedocs.io/en/latest/Docs/YahooFinance.html#financial-indices>`_
+- `Yahoo Finance <https://FinancialDataset.readthedocs.io/en/latest/Docs/YahooFinance.html#financial-indices>`_
 
 Stock Splits and Dividends
 ================================================
-- `Yahoo Finance <https://finailabdatasets.readthedocs.io/en/latest/Docs/YahooFinance.html#stock-splits-and-dividends>`_
-- `Alphavantage <https://finailabdatasets.readthedocs.io/en/latest/Docs/Alphavantage.html#stock-splits-and-dividends>`_
+- `Yahoo Finance <https://FinancialDataset.readthedocs.io/en/latest/Docs/YahooFinance.html#stock-splits-and-dividends>`_
+- `Alphavantage <https://FinancialDataset.readthedocs.io/en/latest/Docs/Alphavantage.html#stock-splits-and-dividends>`_
 
 Technical Indicators
 ================================================
-- `Alphavantage <https://finailabdatasets.readthedocs.io/en/latest/Docs/Alphavantage.html#technical-indicators>`_
+- `Alphavantage <https://FinancialDataset.readthedocs.io/en/latest/Docs/Alphavantage.html#technical-indicators>`_
 
 
 Which algorithm should I use?

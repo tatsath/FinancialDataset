@@ -8,7 +8,7 @@ Quandl has many data sources to get different types of stock market data. Howeve
 Quandl also provides paid data source of minute and lower frequencies.
 
 .. note::
-    Refer to `Quandl Jupyter Notebook <https://github.com/Quanturf/quanturf_dataset/blob/main/Docs/JupyterNotebooks/quandl.ipynb>`_ for more details.
+    Refer to `Quandl Jupyter Notebook <https://github.com/tatsath/FinancialDataset/tree/main/JupyterNotebooks/quandl.ipynb>`_ for more details.
 
 Table of Contents
 -----------------

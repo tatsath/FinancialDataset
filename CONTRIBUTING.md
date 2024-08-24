@@ -5,11 +5,11 @@ into two categories:
 1. You want to propose a new Data source and include it in the documentation
     - Create an python code about your intended data set and include the details under the "Data sources" and link the items to whichever section is good. 
 2. You want to implement a new item:
-    - Look at the roadmap here: https://github.com/tatsath/FinAILabDatasets/projects/2
+    - Look at the roadmap here: https://github.com/tatsath/FinancialDataset/projects/2
     - Pick a to do list or in progress list and comment on the task that you want to work on this feature.
     
 Once you finish implementing a additional items, please send a Pull Request to
-https://github.com/tatsath/FinAILabDatasets/
+https://github.com/tatsath/FinancialDataset/
 
 
 If you are not familiar with creating a Pull Request, here are some guides:
@@ -24,8 +24,8 @@ To develop FinAILAb-Datasets on your machine, here are some tips:
 1. Clone a copy of FinAILAb-Datasets from source:
 
 ```bash
-git clone https://github.com/tatsath/FinAILabDatasets
-cd https://github.com/tatsath/FinAILabDatasets
+git clone https://github.com/tatsath/FinancialDataset
+cd https://github.com/tatsath/FinancialDataset
 ```
 
 2. Install Stable-Baselines in develop mode, with support for building the docs and running tests:

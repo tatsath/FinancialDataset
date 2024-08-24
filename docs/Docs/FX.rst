@@ -13,18 +13,18 @@ FX Spot - Volume and Price Data:
 
 The data can be obtained from the following sources. Click to view the code to retrieve it
 
-- `Yahoo Finance <https://finailabdatasets.readthedocs.io/en/latest/Docs/YahooFinance.html#currencies>`_
+- `Yahoo Finance <https://FinancialDataset.readthedocs.io/en/latest/Docs/YahooFinance.html#currencies>`_
 
-- `FRED <https://finailabdatasets.readthedocs.io/en/latest/Docs/FRED.html#currencies>`_
+- `FRED <https://FinancialDataset.readthedocs.io/en/latest/Docs/FRED.html#currencies>`_
 
 
 Changing Time Period
 -----------------------------
 
-- `Yahoo Finance <https://finailabdatasets.readthedocs.io/en/latest/Docs/YahooFinance.html#adding-time-periods>`_
+- `Yahoo Finance <https://FinancialDataset.readthedocs.io/en/latest/Docs/YahooFinance.html#adding-time-periods>`_
 
 
 Realtime Data
 -----------------------------
 
-- `Yahoo Finance <https://finailabdatasets.readthedocs.io/en/latest/Docs/YahooFinance.html#stream-realtime-data>`_
+- `Yahoo Finance <https://FinancialDataset.readthedocs.io/en/latest/Docs/YahooFinance.html#stream-realtime-data>`_
