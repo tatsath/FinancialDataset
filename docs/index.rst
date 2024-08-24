@@ -1,17 +1,14 @@
-Financial Datasets
+Financial Datasets for Algo Trading
 ==========================================================================================
 
-This documentation contains the information about the **Financial dataset** for thousands
+This documentation is a part of Algo Trading Multiverse Course and contains the information about the **Financial dataset** for thousands
 of asset classes, macroeconomic data, fundamentals and alternative data that can be used for building algo trading models. 
 
 This doumentation shows you how to get massive amounts of Financial Data and explains how to **install required Libraries** and how to **download/import the data** with few lines of Python Code.
 
 The data covered in this documentation include:
 -----------------------------------------------
-- Historical Price and Volume Data for 100,000+ Symbols/Instruments.
-- 50+ Exchanges all around the world.
-- Real-time and Historical Data (back to 1960s)
-- High-frequency real-time Data
+- Historical Price and Volume Data for 100,000+ Instruments.
 - Foreign Exchange (FOREX): 150+ Currency Pairs
 - 500+ Cryptocurrencies
 - Commodities (Crude Oil, Gold, Silver, etc.)
@@ -21,6 +18,9 @@ The data covered in this documentation include:
 - Fundamentals, Metrics and Ratios for Stocks, Bonds, Indexes, Mutual Funds and ETFs
 - Balance Sheets, Cashflow and Profit and Loss Statements (P&L)
 - 50+ Technical Indicators (i.e. SMA, Bollinger Bands).
+- 50+ Exchanges all around the world.
+- Real-time and Historical Data dating back to the 1960s.
+- High-frequency real-time Data
 
 Financial Datasets - Summary by source and types:
 -------------------------------------------------
@@ -55,7 +55,6 @@ Financial Datasets - Summary by source and types:
    Docs/OptionFuture
    Docs/Macroeconomic
    Docs/News
-   Docs/AlternativeData
 
 
 Indices and tables
