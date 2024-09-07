@@ -4,6 +4,7 @@ FRED
 =========
 
 `FRED <https://fred.stlouisfed.org/>`_ is one of the richest source of economic data containing 816,000 US and international time series from 107 sources.
+All the categories of data that can be obtained from FRED can be found `here <https://fred.stlouisfed.org/categories>`_
 
 .. note::
     Refer to `FRED Jupyter Notebook <https://github.com/tatsath/FinAILabDatasets/blob/main/Docs/JupyterNotebooks/FRED.ipynb>`_ for more details.
@@ -11,7 +12,6 @@ FRED
 Table of Contents
 -----------------
 
-- `Installation`_
 - `Usage`_
 - `Historical Price for 1 Stock`_
 - `Many Stocks`_
@@ -20,21 +20,6 @@ Table of Contents
 - `Mutual Funds`_
 - `Treasury Rates`_
 - `Sentiment`_
-
-Installation
-------------------
-
-Install with pip:
-
-.. code:: ipython3
-
-    pip install oandapyV20
-
-Or from Github:
-
-.. code:: ipython3
-
-    pip install git+https://github.com/hootnot/oanda-api-v20.git
 
 Usage
 -----
