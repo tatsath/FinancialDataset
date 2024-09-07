@@ -9,7 +9,7 @@ All the categories of data that can be obtained from FRED can be found `here <ht
 .. note::
     Refer to `FRED Jupyter Notebook <https://github.com/tatsath/FinAILabDatasets/blob/main/Docs/JupyterNotebooks/FRED.ipynb>`_ for more details.
 
-Table of Contents
+Table of Content
 -----------------
 
 - `Usage`_
